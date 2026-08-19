@@ -1,16 +1,36 @@
-## Hi there 👋
+Oluseun Olamide
 
-<!--
-**oluseunolamidee/oluseunolamidee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Quality & Operations Analytics
 
-Here are some ideas to get you started:
+I use data analytics and business intelligence to transform operational data into actionable insights, with a focus on healthcare, manufacturing, quality management, sustainability, and supply-chain decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Areas of Focus
+
+🏥 Healthcare & Operations Analytics
+
+🏭 Manufacturing & Quality Analytics
+
+🌱 Climate & Supply-Chain Analytics
+
+📊 Business Intelligence & Decision Support
+
+📈 Data Visualization & Performance Monitoring
+
+Tools & Technologies
+
+Analytics: Excel • SQL • Power BI
+
+Data & Visualization: Data Cleaning • Exploratory Analysis • KPI Development • Dashboard Design
+
+Quality & Operations: Quality Analytics • Process Improvement • Performance Monitoring • Root Cause Analysis
+
+Currently Developing: Python for Data Analytics
+
+Background:
+
+BSc Microbiology
+
+Interested in the intersection of data, biotechnology, quality management, sustainability, and industrial systems.
+
+Connect With Me
+www.linkedin.com/in/olamide-oluseun-32a019254
