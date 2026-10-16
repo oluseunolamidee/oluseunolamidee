@@ -24,8 +24,6 @@ Data & Visualization: Data Cleaning • Exploratory Analysis • KPI Development
 
 Quality & Operations: Quality Analytics • Process Improvement • Performance Monitoring • Root Cause Analysis
 
-Currently Developing: Python for Data Analytics
-
 Background:
 
 BSc Microbiology
